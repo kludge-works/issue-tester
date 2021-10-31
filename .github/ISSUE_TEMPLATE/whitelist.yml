@@ -2,9 +2,9 @@ name: Whitelist your name
 description: Whitelist your name
 title: "[Whitelist]: "
 labels: [
-  X-whitelist:version=v1,
-  X-whitelist:task:add-ip-rule,
-  X-whitelist:status:initial
+ "X-whitelist:version=v1",
+ "X-whitelist:task:add-ip-rule",
+ "X-whitelist:status:initial"
   ]
 assignees:
   - "@philips-internal/xds-admins"
