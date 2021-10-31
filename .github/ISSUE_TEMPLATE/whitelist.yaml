@@ -1,6 +1,6 @@
 name: Bug Report2
 description: File a bug report
-title: "[Bug] [triage]: "
+title: "[Bug] [Triage]: "
 labels: ["triage", "bug"]
 assignees:
   - timothysparg
