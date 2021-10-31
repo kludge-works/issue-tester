@@ -1,3 +1,9 @@
+name: Issue handler
+on:
+  issues:
+    types: 
+      - opened
+
 jobs:
   build:
     runs-on: ubuntu-latest
