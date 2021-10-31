@@ -3,7 +3,7 @@ description: File a bug report5
 title: "[Whitelist]: 5"
 labels: 
   - "X-Whitelist:version=v1"
-  - "X-Whitelist:task:add-ip-rule"
+  - "X-Whitelist:task:add-name-rule"
   - "X-Whitelist:status:initial"
 assignees: 
   - "timothysparg"
