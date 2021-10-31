@@ -2,7 +2,7 @@ name: Bug Report2
 description: File a bug report2
 title: "[Whitelst]: "
 labels: "triage, bug"
-assignees: timothysparg
+assignees: @timothysparg
 body:
   - type: markdown
     attributes:
