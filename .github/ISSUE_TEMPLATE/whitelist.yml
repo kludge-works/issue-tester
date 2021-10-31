@@ -1,7 +1,7 @@
 name: Whitelist your name
 description: Whitelist your name
 title: "[Whitelist]: "
-labels: ["bug"]
+labels: ["bug","bug2"]
 assignees:
   - "@timothysparg"
 body:
