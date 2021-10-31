@@ -1,8 +1,8 @@
-name: Bug Report3
-description: File a bug report3
+name: Bug Report4
+description: File a bug report4
 title: "[Whitelist]: "
-labels: "triage,bug"
-assignees: "@timothysparg"
+labels: ["triage","bug"]
+assignees: ["timothysparg"]
 body:
   - type: markdown
     attributes:
