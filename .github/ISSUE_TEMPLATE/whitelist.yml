@@ -2,7 +2,7 @@ name: Whitelist your name
 description: Whitelist your name
 title: "[Whitelist]: "
 labels: 
-  - X-Whitelist:version=1
+  - "X-Whitelist:version=1"
 assignees:
   - "@timothysparg"
 body:
