@@ -1,7 +1,8 @@
 name: Bug Report5
 description: File a bug report5
 title: "[Whitelist]: 5"
-labels: "bloopers"
+labels: 
+  -"X-Whitelist:version=v1"
 assignees: 
   - "timothysparg"
 body:
