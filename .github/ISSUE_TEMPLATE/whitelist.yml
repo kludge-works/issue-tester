@@ -1,7 +1,7 @@
 name: Whitelist your name
 description: Whitelist your name
 title: "[Whitelist]: "
-labels: X-Whitelist:version=v1, X-Whitelist:task:add-ip-rule, X-Whitelist:status:initial
+labels: "bug,needs-triage"
 assignees:
   - "@timothysparg"
 body:
