@@ -1,0 +1,35 @@
+name: Whitelist your name
+description: Whitelist your name
+title: "[Whitelist]: "
+labels: [
+  X-whitelist:version=v1,
+  X-whitelist:task:add-ip-rule,
+  X-whitelist:status:initial
+  ]
+assignees:
+  - "@philips-internal/xds-admins"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Whitelist your name
+  - type: input
+    id: name
+    attributes:
+      label:  full name
+      description: full name
+      placeholder: "John Smith"
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: permanence 
+      description: How long should this rule exist
+      options:
+        - Day
+        - week
+        - month
+        - indefinite
+    validations:
+      required: true
