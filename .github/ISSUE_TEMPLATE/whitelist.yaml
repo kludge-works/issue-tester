@@ -1,6 +1,6 @@
-name: Bug Report5
-description: File a bug report5
-title: "[Whitelist]: 5"
+name: Whitelist your name
+description: Whitelist your name
+title: "[Whitelist]: "
 labels: 
   - "X-Whitelist:version=v1"
   - "X-Whitelist:task:add-name-rule"
